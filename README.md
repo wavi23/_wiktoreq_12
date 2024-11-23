@@ -9,8 +9,8 @@ Jestem **Wiktor** i pasjonuję się tworzeniem nowoczesnych i estetycznych proje
 - 🌍 Uwielbiam uczyć się nowych technologii i eksperymentować z kodem.
 
 ## 🚀 Technologie, których używam
-- **Języki:** JavaScript, Python, Java  
-- **Narzędzia:** VS Code, Node.js, Git  
+- **Języki:** Html, Css, Js, Tailwind Css, React.js, Python, Java
+- **Narzędzia:** VS Code, Node.js, Git, Intellij Idea
 
 ## 📫 Kontakt
 - 📧 Mail: [wiktoreq12@op.pl](mailto:wiktoreq12@op.pl)  
