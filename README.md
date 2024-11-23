@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 📧 Mail: [TwójMail@example.com](mailto:TwójMail@example.com)  <br>- 🌐 Portfolio: [GitHub](https://github.com/wavi23)</p>
+<p align="left">- 📧 Mail: wiktoreq12@op.pl  <br>- 🌐 Portfolio: https://github.com/wavi23</p>
 
 ###
 
